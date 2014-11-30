@@ -1,0 +1,13 @@
+{
+    "name": "badcow/palette",
+    "description": "Library to handle colors and convert between different color spaces.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Williams",
+            "email": "sam@badcow.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
